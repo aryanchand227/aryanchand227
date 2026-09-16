@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello😎, I'm Aryan Chand:
 🔭 I’m currently working on: NLP, Transformer & AI projects<br>👯 I’m looking to collaborate on: Machine Learning, NLP & AI projects<br>🤝 I’m looking for help with: Advanced Transformers, RAG & LLM applications<br>🌱 I’m currently learning: RAG, LLMs, PyTorch & Generative AI<br>💬 Ask me about: Machine Learning, NLP, Python & Transformers<br>⚡ Fun fact: I enjoy turning ML concepts into working projects 🚀
 
 
